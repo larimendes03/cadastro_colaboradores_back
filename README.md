@@ -7,6 +7,7 @@
 * CRUD completo de colaboradores e dependentes
 * Validações de campos
 * Criação de decorators personalizados
+* Comunicação com o banco de dados a partir do TypeOrm
 
 ## **Tecnologias utilizadas** 🤖
 <span>
